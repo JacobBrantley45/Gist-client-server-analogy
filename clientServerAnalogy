@@ -1,3 +1,0 @@
-I believe that the best analogy for the client/server interaction would ironically be that of the interaction taking place at a restaurant between the waiter(server) and the customer(client).
-The customer sits down, the server comes to the table, initializes a connection with the people at the table, who then make a series of requests to the server, ordering drinks, apps, and main courses.
-the server will then take that order(information), process it, and return with the desired orders(information).
