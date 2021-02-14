@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+  header{
+    text-align: center;
+    color: red;
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: red;
+    text-align: center;
+    }
+  
+  button, input {
+    padding: 5px;
+    justify-content: center;
+    
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .error-message {
+      color: red;
+  }
+  
+  .hidden {
+    display: none;
+  }
