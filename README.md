@@ -1,1 +1,0 @@
-# Gist-client-server-analogy
